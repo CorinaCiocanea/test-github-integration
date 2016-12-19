@@ -70,9 +70,9 @@
 <!--   Peter James Chalmers, but called "Jim"   -->
   <name>
     <use value="official"/>
-    <family value="Chalmers"/>
-    <given value="Peter"/>
-    <given value="James"/>
+    <family value="Chalmers State 1"/>
+    <given value="Peter State 1"/>
+    <given value="James State 1"/>
   </name>
   <name>
     <use value="usual"/>
