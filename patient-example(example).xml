@@ -12,8 +12,8 @@
             
             <td>Name</td>
             
-            <td>Peter James 
-              <b>Chalmers</b> (&quot;Jim&quot;)
+            <td>Peter James Junior
+              <b>Chalmers</b> (&quot;Jimmy&quot;)
             </td>
           
           </tr>
@@ -70,9 +70,9 @@
 <!--   Peter James Chalmers, but called "Jim"   -->
   <name>
     <use value="official"/>
-    <family value="Chalmers State 1"/>
-    <given value="Peter State 1"/>
-    <given value="James State 1"/>
+    <family value="Chalmers 125"/>
+    <given value="Peter 125"/>
+    <given value="James 125"/>
   </name>
   <name>
     <use value="usual"/>
